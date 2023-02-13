@@ -1,0 +1,5 @@
+git clone https://github.com/newchine83/jewelry.git \
+&& cd jewelry \
+&& echo "PUBLIC_STORE_DOMAIN=0c2d71-2.myshopify.com\nPUBLIC_STOREFRONT_API_TOKEN=1b21d3364bb05e0ec13187c4abbe6aa6\nSESSION_SECRET=LOCAL_SECRET" >> .env \
+&& yarn \
+&& yarn dev
