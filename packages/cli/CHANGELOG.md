@@ -1,5 +1,17 @@
 # @shopify/cli-hydrogen
 
+## 4.0.5
+
+### Patch Changes
+
+- Fix missing assets in virtual routes. ([#503](https://github.com/Shopify/hydrogen/pull/503)) by [@frandiox](https://github.com/frandiox)
+
+## 4.0.4
+
+### Patch Changes
+
+- Fix pathnames in Windows when creating projects and generating routes. ([#495](https://github.com/Shopify/hydrogen/pull/495)) by [@frandiox](https://github.com/frandiox)
+
 ## 4.0.3
 
 ### Patch Changes
